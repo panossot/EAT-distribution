@@ -1,4 +1,4 @@
-# EAT-source-distribution
+# EAT-distribution
 ==============================================
 
 The code to produce the jar to be used in order to distribute the test files to the equivalent subset of the tested software. 
